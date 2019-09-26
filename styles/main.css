@@ -5,3 +5,7 @@ body {
 img {
     border-bottom-right-radius: 10px;
 }
+
+.modal-content {
+    background-color:#B3593E;
+}
